@@ -15,7 +15,7 @@ Copy the authentication code and click on the button below to start a new ASRevi
 
 ## How it works
 
-ngrok
+ASReview is run as a server you can access with your browser. Instead of running this server locally, we are using google colab, and connecting to their local url using ngrok via the pyngrok package.
 
 ## License
 
