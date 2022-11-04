@@ -1,7 +1,9 @@
 # ASReview on Colab
 
-With this simple tool you can start an ASReview session on Google Colab. In
-future versions this will support storing ASReview files to Google Drive.
+With this simple tool you can start an ASReview session on Google Colab.
+
+The project files are stored to the user files. If you want to save the project
+files to your Google Drive or local machine.
 
 ## How to use
 
