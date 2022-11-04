@@ -7,7 +7,7 @@ future versions this will support storing ASReview files to Google Drive.
 
 Simply click on the button below to start a new ASReview session on Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asreview/asreview/blob/master/asreviewcontrib/colab/ASReview_on_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JTeijema/ASReview-on-Colab/blob/main/ASReview_in_colab.ipynb)
 
 ## License
 
