@@ -2,8 +2,9 @@
 
 With this simple tool you can start an ASReview session on Google Colab.
 
-The project files are stored to the user files. If you want to save the project
-files to your Google Drive or local machine.
+The project files are stored to the user files found in the window to the left of the screen. This can be accessed only as long as the runtime is live. If you want to save the project files to your Google Drive or local machine you should do so before closing the runtime. 
+
+It's possible to change the file location to a connected google drive to resume usage on a project in a new runtime.
 
 ## How to use
 
