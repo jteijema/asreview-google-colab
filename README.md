@@ -10,16 +10,36 @@ during a next session.
 
 ## How to use
 
-To use ngrok, you will need a authentication token. This can be found on their
-website:
+To use this tool, you will need to follow the steps in the colab session. This
+will include the following steps:
 
-[ngrok.com/auth](https://dashboard.ngrok.com/auth)
-
-Copy the authentication code and click on the button below to start a new
-ASReview session on Colab. You will need to fill in your authentication code in
-the notebook manually.
+1. Open the colab session with the button below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JTeijema/ASReview-Google-Colab/blob/main/ASReview_in_colab.ipynb)
+
+2. Create an account on ngrok.
+
+Navigate to [ngrok.com](https://ngrok.com/) and create an account. You do not
+have to install anything.
+
+3. Find your ngrok authentication token.
+
+To use ngrok, you will first you will need a authentication token. This can be
+found on [ngrok.com/auth](https://dashboard.ngrok.com/auth)
+
+4. Enter your ngrok authentication token in the colab session.
+
+Copy the authentication code and fill in the `NGROK_AUTH_TOKEN` field in the
+colab session.
+
+5. Run the colab session.
+
+Finally run all cells in the colab session. This will start ASReview.
+
+6. Open the ASReview session.
+
+The ASReview session can be opened by clicking on the link in the output of the
+second to last cell. The link will look something like this: `http://xx-xx-xx-xx-xx.ngrok.io`
 
 ## How it works
 
