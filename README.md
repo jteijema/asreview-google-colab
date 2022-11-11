@@ -2,8 +2,6 @@
 
 With this simple tool you can start an ASReview session on Google Colab.
 
-This notebook can be found on [GitHub.com/JTeijema/asreview-google-colab](https://github.com/JTeijema/asreview-google-colab).
-
 The project files are stored to either your google drive or the user files found
 in the window to the left of the screen, depending on your settings. If saved to
 the user files, they can be accessed only as long as the runtime is live. If
