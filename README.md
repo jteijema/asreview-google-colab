@@ -32,7 +32,7 @@ found on [ngrok.com/auth](https://dashboard.ngrok.com/auth)
 Copy the authentication code and fill in the `NGROK_AUTH_TOKEN` field in the
 colab session.
 
-> if you want to protect the session with a password, mark the
+> If you want to protect the session with a password, mark the
 > `set_password_access` checkbox. The default username and password are
 > `asreview` and `colab`. You can change these in the `password_access` field.
 
