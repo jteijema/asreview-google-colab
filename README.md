@@ -34,21 +34,25 @@ colab session.
 
 5. Run the colab session.
 
-Finally run all cells in the colab session. This will start ASReview.
+Finally run all cells in the colab session. This will start ASReview. The
+key-combination for running all cells is `Ctrl+F9`.
 
 > You might need to allow access to your google drive if you want to save
 project files.
 
 6. Open the ASReview session.
 
-The ASReview session can be opened by clicking on the button in the colab named
-`Launch ASReview`.
+The ASReview session can be opened by clicking on the link in the second to
+last cell. It will look something like this:
+`http://xx-xx-xx-xx.ngrok.io/`
+
+If prompted, click `visit site`.
 
 ## How it works
 
 ASReview is run as a server you can access with your browser. Instead of running
 this server locally, we are using google colab, and connecting to their local
-url using ngrok via the pyngrok package. We also mount a drive session to store
+url using ngrok via the pyngrok package. The notebook also mounts a drive session to store
 project files.
 
 ## License
