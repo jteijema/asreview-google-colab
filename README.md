@@ -46,11 +46,17 @@ project files.
 
 6. Open the ASReview session.
 
-The ASReview session can be opened by clicking on the link in the **second to
-last cell**. It will look something like this:
-`http://xx-xx-xx-xx.ngrok.io/`
+The ASReview session can be opened by clicking on the link in cell below
+**ASReview**. It will look something like this: `http://xx-xx-xx-xx.ngrok.io/`
 
 If prompted, click `visit site`.
+
+## Project files
+
+Colab blocks uploading project files. The way around this is to upload them
+directly to your google drive. To simplify this, you can use the cells at the
+end of the notebook, titled `Import ASReview files`. These cells will upload the
+files to your google drive and extract them, ready to use in asreview.
 
 ## How it works
 
