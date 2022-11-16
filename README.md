@@ -47,7 +47,7 @@ project files.
 6. Open the ASReview session.
 
 The ASReview session can be opened by clicking on the link in cell below
-**Start ASReview**. It will look something like this: `http://xx-xx-xx-xx.ngrok.io/`
+**Start ASReview**. The output of this cell will look like this: `Public URL: http://xx-xx-xx-xx.ngrok.io/`
 
 If prompted, click `visit site`.
 
