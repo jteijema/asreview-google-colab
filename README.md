@@ -1,12 +1,12 @@
 # ASReview on Colab
 
-With this simple tool you can start an ASReview session on Google Colab.
+With this simple tool, you can start an ASReview session on Google Colab.
 
-The project files are stored to either your google drive or the user files found
+The project files are stored in either your google drive or the user files found
 in the window to the left of the screen, depending on your settings. If saved to
 the user files, they can be accessed only as long as the runtime is live. If
 saved to your google drive, they will be saved permanently and can be accessed
-during a next session.
+during a subsequent session.
 
 ## How to use
 
@@ -24,7 +24,7 @@ have to install anything.
 
 3. Find your ngrok authentication token.
 
-To use ngrok, you will first you will need a authentication token. This can be
+To use ngrok, you will first you will need an authentication token. This can be
 found on [ngrok.com/auth](https://dashboard.ngrok.com/auth)
 
 4. Enter your ngrok authentication token in the colab session.
@@ -38,7 +38,7 @@ colab session.
 
 5. Run the colab session.
 
-Finally run all cells in the colab session. This will start ASReview. The
+Finally, run all cells in the colab session. This will start ASReview. The
 key-combination for running all cells is `Ctrl+F9`.
 
 > You might need to allow access to your google drive if you want to save
@@ -58,7 +58,7 @@ If prompted, click `visit site`.
 
 Colab blocks uploading project files. The way around this is to upload them
 directly to your google drive. To simplify this, you can use the cells at the
-end of the notebook, titled `Import ASReview files`. These cells will upload the
+end of the notebook titled `Import` ASReview files`. These cells will upload the
 files to your google drive and extract them, ready to use in asreview.
 
 ## How it works
